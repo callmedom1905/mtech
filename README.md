@@ -1,3 +1,3 @@
-Chạy dự án
-php artisan serve
-npm run dev
+<strong>Chạy dự án</strong>
+<div>php artisan serve</div>
+<div>npm run dev</div>
